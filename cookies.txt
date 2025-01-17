@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aronjmatsuyama.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1737076932|Q3X-JaXvy2eC
+aronjmatsuyama.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+aronjmatsuyama.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=virginia-pub_g
+

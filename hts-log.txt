@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Jan 2025 20:22:11 at https://aronjmatsuyama.wixsite.com/tuttitutors +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*+*.wix.com/* -mime:application/foobar
+(winhttrack -qwr2%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://aronjmatsuyama.wixsite.com/tuttitutors -O1 "C:\My Web Sites\aronsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*+*.wix.com/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:22:30	Error: 	"Not Found" (404) at link https://aronjmatsuyama.wixsite.com/c (from https://aronjmatsuyama.wixsite.com/tuttitutors)
+20:22:30	Error: 	"Not Found" (404) at link https://aronjmatsuyama.wixsite.com/t (from https://aronjmatsuyama.wixsite.com/tuttitutors)
+20:22:30	Error: 	"Not Found" (404) at link https://aronjmatsuyama.wixsite.com/ (from https://aronjmatsuyama.wixsite.com/tuttitutors)
+20:22:34	Error: 	"Not Found" (404) at link https://aronjmatsuyama.wixsite.com/sitemap.xml (from https://aronjmatsuyama.wixsite.com/tuttitutors)
+20:22:34	Error: 	"Not Found" (404) at link https://aronjmatsuyama.wixsite.com/feed.xml (from https://aronjmatsuyama.wixsite.com/tuttitutors)
+20:22:34	Error: 	"Not Found" (404) at link https://aronjmatsuyama.wixsite.com/decodeURIComponent(e (from https://aronjmatsuyama.wixsite.com/tuttitutors)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 35 links scanned, 28 files written (3437400 bytes overall) [987738 bytes received at 42945 bytes/sec], 3438409 bytes transferred using HTTP compression in 25 files, ratio 26%, 1.2 requests per connection
+(6 errors, 0 warnings, 0 messages)
